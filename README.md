@@ -8,6 +8,6 @@
 
 Problem Category | Count
 --- | --- 
-[Easy](https://github.com/VOTHITHAOVY/DSA/tree/master/src/Easy/README.md) | 607
-[Medium](https://github.com/VOTHITHAOVY/DSA/tree/master/src/Hard/README.md) | 793
-[Hard](https://github.com/VOTHITHAOVY/DSA/tree/master/src/Medium/README.md) | 125
+[Easy](https://github.com/VOTHITHAOVY/DSA/tree/master/src/Easy/README.md) | ?
+[Medium](https://github.com/VOTHITHAOVY/DSA/tree/master/src/Hard/README.md) | ?
+[Hard](https://github.com/VOTHITHAOVY/DSA/tree/master/src/Medium/README.md) | ?
