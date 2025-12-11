@@ -1,4 +1,4 @@
-package Hard;
+package Medium;
 
 public class Longest_Palindromic_subString {
     public static void main(String[] args) {
