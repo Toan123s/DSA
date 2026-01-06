@@ -1,6 +1,6 @@
 # Medium LeetCode Java Solutions
 
-**Total Solved: 6**
+**Total Solved: 7**
 
 | S.No | Coding Problem |
 |-----|----------------|
@@ -10,3 +10,4 @@
 | 4 | [Reverse Integer](https://github.com/Toan123s/DSA/blob/main/src/Medium/reverse_integer.java) |
 | 5 | [Zigzag Conversion](https://github.com/Toan123s/DSA/blob/main/src/Medium/Zigzag_conversion.java) |
 | 6 | [Container With Most Water](https://github.com/Toan123s/DSA/blob/main/src/Medium/Container_with_most_water.java) |
+| 7 | [Integer_To_RoMan](https://github.com/Toan123s/DSA/blob/main/src/Medium/integer_to_roman.java) |
