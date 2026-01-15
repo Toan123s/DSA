@@ -10,9 +10,9 @@ public class Container_with_most_water {
         if (height.length < 2) {
             return 0;
         }
-        int l = 0, r = height.length - 1;
-        int V = (r - l) * ((height[l] < height[r]) ? height[l++] : height[r--]);
+        int l = 0, r = height.length - 1, V = 0;
         while (l < r) {
+            V = (r - l) * Math.min(height[l], height[r]);
             if (height[l] > height[r]) {
                 if (height[r] * (r - l) > V) {
                     V = height[r] * (r - l);
