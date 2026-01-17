@@ -1,0 +1,16 @@
+package Easy;
+
+public class Concatenation_of_array_in_java {
+    public static void main(String[] args) {
+
+    }
+
+    public int[] getConcatenation(int[] nums) {
+        int[] newArr = new int[nums.length * 2];
+        for(int i = 0; i < nums.length; i++){
+            newArr[i] = nums[i];
+            newArr[i + nums.length] = nums[i];
+        }
+        return newArr;
+    }
+}

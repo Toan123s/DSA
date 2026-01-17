@@ -10,10 +10,10 @@
 
 ### Problem Category
 
-**Total Solved: 13**
+**Total Solved: 17**
 
 | Category | Count |
 |--------|-------|
-| [Easy](https://github.com/Toan123s/DSA/tree/main/src/Easy/README.md) | 4     |
-| [Medium](https://github.com/Toan123s/DSA/tree/main/src/Medium/README.md) | 8     |
+| [Easy](https://github.com/Toan123s/DSA/tree/main/src/Easy/README.md) | 6     |
+| [Medium](https://github.com/Toan123s/DSA/tree/main/src/Medium/README.md) | 10    |
 | [Hard](https://github.com/Toan123s/DSA/tree/main/src/Hard/README.md) | 1     |
