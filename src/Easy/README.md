@@ -1,6 +1,6 @@
 # Easy LeetCode Java Solutions
 
-**Total Solved: 6**
+**Total Solved: 10**
 
 | S.No | Coding Problem                                                                                                                         |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -10,4 +10,8 @@
 | 4    | [Score Of A String](https://github.com/Toan123s/DSA/blob/main/src/Easy/Score_of_a_string.java)                                         |
 | 5    | [Concatenation Of Array](https://github.com/Toan123s/DSA/blob/main/src/Easy/Concatenation_of_array_in_java)                            |
 | 6    | [Replace Element With Greatest Element](https://github.com/Toan123s/DSA/blob/main/src/Easy/Replace_element_with_greatest_element.java) |
+| 7    | [Contains Duplicate](https://github.com/Toan123s/DSA/blob/main/src/Easy/Contains_duplicate.java)                                       |
+| 8    | [Is Subsequence](https://github.com/Toan123s/DSA/blob/main/src/Easy/Is_subsequence.java)                                               |
+| 9    | [Length Of Last Word](https://github.com/Toan123s/DSA/blob/main/src/Easy/Length_of_last_word.java)                                     |
+| 10   | [Number Of Senior Critizens](https://github.com/Toan123s/DSA/blob/main/src/Easy/Numberof_senior_critizens.java)                        |
 
