@@ -1,6 +1,6 @@
 # Easy LeetCode Java Solutions
 
-**Total Solved: 10**
+**Total Solved: 12**
 
 | S.No | Coding Problem                                                                                                                         |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,4 +14,6 @@
 | 8    | [Is Subsequence](https://github.com/Toan123s/DSA/blob/main/src/Easy/Is_subsequence.java)                                               |
 | 9    | [Length Of Last Word](https://github.com/Toan123s/DSA/blob/main/src/Easy/Length_of_last_word.java)                                     |
 | 10   | [Number Of Senior Critizens](https://github.com/Toan123s/DSA/blob/main/src/Easy/Numberof_senior_critizens.java)                        |
+| 11   | [Valid Anagram](https://github.com/Toan123s/DSA/blob/main/src/Easy/Valid_anagram.java)                                                 |
+| 12   | [Max Consecutive Ones](https://github.com/Toan123s/DSA/blob/main/src/Easy/Max_consecutive_ones.java)                                   |
 

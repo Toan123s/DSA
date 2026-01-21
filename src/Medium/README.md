@@ -1,6 +1,6 @@
 # Medium LeetCode Java Solutions
 
-**Total Solved: 10**
+**Total Solved: 11**
 
 | S.No | Coding Problem                                                                                                                                            |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -14,3 +14,4 @@
 | 8    | [Number Of Zero Filled Subarrays](https://github.com/Toan123s/DSA/blob/main/src/Medium/Number_of_zero_filled_subarrays)                                   |
 | 9    | [Append Characters To String Make Subsequence](https://github.com/Toan123s/DSA/blob/main/src/Medium/Append_characters_to_string_to_make_subsequence.java) |
 | 10   | [RoMan To Integer](https://github.com/Toan123s/DSA/blob/main/src/Medium/Roman_to_integer.java)                                                            |
+| 11   | [Group Anagrams](https://github.com/Toan123s/DSA/blob/main/src/Medium/Group.anagrams.java)                                                                |
