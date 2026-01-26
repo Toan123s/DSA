@@ -1,6 +1,6 @@
 # Medium LeetCode Java Solutions
 
-**Total Solved: 11**
+**Total Solved: 12**
 
 | S.No | Coding Problem                                                                                                                                            |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,3 +15,4 @@
 | 9    | [Append Characters To String Make Subsequence](https://github.com/Toan123s/DSA/blob/main/src/Medium/Append_characters_to_string_to_make_subsequence.java) |
 | 10   | [RoMan To Integer](https://github.com/Toan123s/DSA/blob/main/src/Medium/Roman_to_integer.java)                                                            |
 | 11   | [Group Anagrams](https://github.com/Toan123s/DSA/blob/main/src/Medium/Group.anagrams.java)                                                                |
+| 12   | [Average Waiting Time](https://github.com/Toan123s/DSA/blob/main/src/Medium/Average_waiting_time.java)                                                    |
