@@ -1,6 +1,6 @@
 # Medium LeetCode Java Solutions
 
-**Total Solved: 12**
+**Total Solved: 13**
 
 | S.No | Coding Problem                                                                                                                                            |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,3 +16,4 @@
 | 10   | [RoMan To Integer](https://github.com/Toan123s/DSA/blob/main/src/Medium/Roman_to_integer.java)                                                            |
 | 11   | [Group Anagrams](https://github.com/Toan123s/DSA/blob/main/src/Medium/Group.anagrams.java)                                                                |
 | 12   | [Average Waiting Time](https://github.com/Toan123s/DSA/blob/main/src/Medium/Average_waiting_time.java)                                                    |
+| 13   | [Sort An Array](https://github.com/Toan123s/DSA/blob/main/src/Medium/Sort_an_array.java)                                                                  |
