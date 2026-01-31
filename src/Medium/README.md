@@ -1,6 +1,6 @@
 # Medium LeetCode Java Solutions
 
-**Total Solved: 13**
+**Total Solved: 14**
 
 | S.No | Coding Problem                                                                                                                                            |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,3 +17,4 @@
 | 11   | [Group Anagrams](https://github.com/Toan123s/DSA/blob/main/src/Medium/Group.anagrams.java)                                                                |
 | 12   | [Average Waiting Time](https://github.com/Toan123s/DSA/blob/main/src/Medium/Average_waiting_time.java)                                                    |
 | 13   | [Sort An Array](https://github.com/Toan123s/DSA/blob/main/src/Medium/Sort_an_array.java)                                                                  |
+| 14   | [Count Primes](https://github.com/Toan123s/DSA/blob/main/src/Medium/Count_primes.java)                                                                    |
