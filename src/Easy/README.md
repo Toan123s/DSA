@@ -1,6 +1,6 @@
 # Easy LeetCode Java Solutions
 
-**Total Solved: 17**
+**Total Solved: 18**
 
 | S.No | Coding Problem                                                                                                                                       |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,5 +21,6 @@
 | 15   | [Divide Array Into Equal Pairs](https://github.com/Toan123s/DSA/blob/main/src/Easy/Divide_array_into_equal_pairs.java)                               |
 | 16   | [Maximum Product Difference Between Two Pairs](https://github.com/Toan123s/DSA/blob/main/src/Easy/Maximum_product_difference_between_two_pairs.java) |
 | 17   | [Height Checker](https://github.com/Toan123s/DSA/blob/main/src/Easy/Height_checker.java)                                                             |
+| 18   | [Trionic Array I](https://github.com/Toan123s/DSA/blob/main/src/Easy/Trionic_Array_I.java)                                                           |
 
 

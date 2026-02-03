@@ -1,6 +1,6 @@
 # Medium LeetCode Java Solutions
 
-**Total Solved: 14**
+**Total Solved: 15**
 
 | S.No | Coding Problem                                                                                                                                            |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,3 +18,4 @@
 | 12   | [Average Waiting Time](https://github.com/Toan123s/DSA/blob/main/src/Medium/Average_waiting_time.java)                                                    |
 | 13   | [Sort An Array](https://github.com/Toan123s/DSA/blob/main/src/Medium/Sort_an_array.java)                                                                  |
 | 14   | [Count Primes](https://github.com/Toan123s/DSA/blob/main/src/Medium/Count_primes.java)                                                                    |
+| 15   | [Sort Colors](https://github.com/Toan123s/DSA/blob/main/src/Medium/Sort_colors.java)                                                                      |
