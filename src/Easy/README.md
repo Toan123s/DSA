@@ -22,5 +22,6 @@
 | 16   | [Maximum Product Difference Between Two Pairs](https://github.com/Toan123s/DSA/blob/main/src/Easy/Maximum_product_difference_between_two_pairs.java) |
 | 17   | [Height Checker](https://github.com/Toan123s/DSA/blob/main/src/Easy/Height_checker.java)                                                             |
 | 18   | [Trionic Array I](https://github.com/Toan123s/DSA/blob/main/src/Easy/Trionic_Array_I.java)                                                           |
+| 19   | [Next Greater Element I](https://github.com/Toan123s/DSA/blob/main/src/Easy/Next_greater_element_I.java)                                             |
 
 
