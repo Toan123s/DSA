@@ -1,5 +1,7 @@
 package Easy;
 
+import java.util.HashMap;
+
 public class Trionic_Array_I {
     public static void main(String[] args) {
 

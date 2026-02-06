@@ -1,6 +1,6 @@
 # Easy LeetCode Java Solutions
 
-**Total Solved: 18**
+**Total Solved: 21**
 
 | S.No | Coding Problem                                                                                                                                       |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,5 +23,7 @@
 | 17   | [Height Checker](https://github.com/Toan123s/DSA/blob/main/src/Easy/Height_checker.java)                                                             |
 | 18   | [Trionic Array I](https://github.com/Toan123s/DSA/blob/main/src/Easy/Trionic_Array_I.java)                                                           |
 | 19   | [Next Greater Element I](https://github.com/Toan123s/DSA/blob/main/src/Easy/Next_greater_element_I.java)                                             |
+| 20   | [Monotonic Array](https://github.com/Toan123s/DSA/blob/main/src/Easy/Motononic_array.java)                                                           |
+| 21   | [Find Lucky Integer In A Array](https://github.com/Toan123s/DSA/blob/main/src/Easy/Find_lucky_integer_in_array.java)                                 |
 
 
