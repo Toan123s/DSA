@@ -1,6 +1,6 @@
 # Easy LeetCode Java Solutions
 
-**Total Solved: 21**
+**Total Solved: 24**
 
 | S.No | Coding Problem                                                                                                                                       |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,5 +25,8 @@
 | 19   | [Next Greater Element I](https://github.com/Toan123s/DSA/blob/main/src/Easy/Next_greater_element_I.java)                                             |
 | 20   | [Monotonic Array](https://github.com/Toan123s/DSA/blob/main/src/Easy/Motononic_array.java)                                                           |
 | 21   | [Find Lucky Integer In A Array](https://github.com/Toan123s/DSA/blob/main/src/Easy/Find_lucky_integer_in_array.java)                                 |
+| 22   | [Maximum Number Of Words You Can Type](https://github.com/Toan123s/DSA/blob/main/src/Easy/Maximum_number_of_words.java)                              |
+| 23   | [Circular Sentence](https://github.com/Toan123s/DSA/blob/main/src/Easy/Curcular_sentence.java)                                                       |
+| 24   | [Largest Unique Number](https://github.com/Toan123s/DSA/blob/main/src/Easy/Largest_unique_number.java)                                               |
 
 
