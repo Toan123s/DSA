@@ -1,6 +1,6 @@
 # Easy LeetCode Java Solutions
 
-**Total Solved: 24**
+**Total Solved: 26**
 
 | S.No | Coding Problem                                                                                                                                       |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,5 +28,7 @@
 | 22   | [Maximum Number Of Words You Can Type](https://github.com/Toan123s/DSA/blob/main/src/Easy/Maximum_number_of_words.java)                              |
 | 23   | [Circular Sentence](https://github.com/Toan123s/DSA/blob/main/src/Easy/Curcular_sentence.java)                                                       |
 | 24   | [Largest Unique Number](https://github.com/Toan123s/DSA/blob/main/src/Easy/Largest_unique_number.java)                                               |
+| 25   | [Path Crossing](https://github.com/Toan123s/DSA/blob/main/src/Easy/Path_crossing.java)                                                               |
+| 26   | [Remove Element](https://github.com/Toan123s/DSA/blob/main/src/Easy/Remove_element.java)                                                             |
 
 
